@@ -1,6 +1,6 @@
 # 💖 Moody
 > A command-line mood journal built entirely with pure Ruby.  
-> Track your emotions, reflect on your day, and explore your mood history — all while learning Ruby, step by step.
+> Track your emotions, reflect on your day, and explore your mood history.
 
 ---
 
