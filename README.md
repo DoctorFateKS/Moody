@@ -45,24 +45,7 @@ Follow the on-screen prompts to log your mood and explore your journal.
 ---
 
 ## 📸 Demo (Terminal Preview)
-```bash
-Welcome to Moody! 🧘
-
-How are you feeling today?
-> happy
-
-Any notes you'd like to add?
-> I finally learned how to use loops in Ruby!
-
-Entry saved for 2025-06-01.
-
-----------------------------------
-What would you like to do next?
-1. Add another entry
-2. View mood history
-3. View mood statistics
-4. Exit
-```
+![image](https://github.com/user-attachments/assets/59eb25e0-d873-459b-b984-803d68397973)
 
 ---
 
