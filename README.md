@@ -46,7 +46,7 @@ Follow the on-screen prompts to log your mood and explore your journal.
 
 ## 📸 Demo (Terminal Preview)
 ```bash
-Welcome to RubyMood! 🧘
+Welcome to Moody! 🧘
 
 How are you feeling today?
 > happy
