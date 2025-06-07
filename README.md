@@ -1,22 +1,22 @@
 # 💖 Moody
-> A command-line mood journal built entirely with pure Ruby.  
+> A command-line mood journal built entirely with pure Ruby.
 > Track your emotions, reflect on your day, and explore your mood history.
 
 ---
 
 ## 🧠 What is Moody?
 
-Moody is a minimal, interactive journal that lets you log how you feel each day — with optional notes — right from your terminal. 
+Moody is a minimal, interactive journal that lets you log how you feel each day — with optional notes — right from your terminal.
 
 ---
 
 ## ✨ Features
 
-- ✅ Add a mood entry with a short note  
-- 📅 Automatically timestamps entries with the current date  
-- 📖 Review your mood history  
-- 📊 See basic statistics on your emotional trends  
-- 🚫 Handles invalid input with graceful error messages  
+- ✅ Add a mood entry with a short note
+- 📅 Automatically timestamps entries with the current date
+- 📖 Review your mood history
+- 📊 See basic statistics on your emotional trends
+- 🚫 Handles invalid input with graceful error messages
 - 🔁 Menu-based interaction for continuous journaling sessions
 
 ---
@@ -58,7 +58,6 @@ rubymood/
 ---
 
 ## Future Enhancements
-- 💾 Save/load entries to/from a JSON or CSV file
 - 📈 Generate ASCII mood charts
 - 🧠 Sentiment analysis with NLP (optional gem)
 - 🌐 Port to Ruby on Rails for a full-stack web version
@@ -68,7 +67,7 @@ rubymood/
 ## 🧑‍💻 Author
 Made with ❤️ by DoctorFateKS
 
-[LinkedIn](https://www.linkedin.com/in/kevin-saison17/) • [Twitter](https://x.com/DoctorFateKS) • [Threads](https://www.threads.com/@ks_nelson17?hl=fr-ca) • [Portfolio]()
+[LinkedIn](https://www.linkedin.com/in/kevin-saison17/) • [Twitter](https://x.com/DoctorFateKS) • [Portfolio]()
 
 ---
 
